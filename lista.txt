@@ -1,3 +1,5 @@
 feijão
 arroz
 oleo
+carne 
+macarrao
